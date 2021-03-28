@@ -27,7 +27,7 @@
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
+✔️ Certifications\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
