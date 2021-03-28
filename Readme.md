@@ -27,8 +27,10 @@
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
+✔️ Awards & Achievements\
 ✔️ Certifications\
 ✔️ Experience\
+✔️ Publications\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
