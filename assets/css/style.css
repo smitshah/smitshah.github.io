@@ -927,6 +927,7 @@ section .container {
   margin: 5px 0 0 68px;
   display: flex;
   flex-wrap: wrap;
+  
 }
 
 .contact .info-box .social-links a {
@@ -935,6 +936,7 @@ section .container {
   color: #fff;
   line-height: 1;
   margin-right: 12px;
+  margin-bottom: 12px;
   transition: 0.3s;
 }
 
