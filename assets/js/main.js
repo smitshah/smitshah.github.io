@@ -158,7 +158,7 @@
     var message = $('.validate-input textarea[name="message"]');
 
 
-    $('.validate-form').on('submit',function(e){
+    $('.contact1-form').on('submit',function(e){
         var check = true;
 
         if($(name).val().trim() == ''){
