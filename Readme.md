@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://smitshah99.github.io/
+> https://smitshah.github.io/
 
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/smitshah99/smitshah.github.io/commits/master)
