@@ -2,8 +2,8 @@
 > https://smitshah.github.io/
 
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/smitshah99/smitshah.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://smitshah99.github.io/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/smitshah/smitshah.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://smitshah.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/smit--shah/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
